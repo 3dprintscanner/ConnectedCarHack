@@ -11,13 +11,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150321191308) do
+ActiveRecord::Schema.define(version: 20150322000116) do
 
   create_table "pressuredata", force: :cascade do |t|
-    t.string  "user_id"
-    t.integer "vehicle_id"
-    t.float   "tyre_pressure"
-    t.string  "time"
+    t.string   "user_id"
+    t.integer  "vehicle_id"
+    t.float    "tyre_pressure"
+    t.datetime "time"
   end
 
 end

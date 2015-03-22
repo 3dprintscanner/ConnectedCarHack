@@ -1,6 +1,7 @@
 require './ConnectedCar'
-require 'bundler/setup'
+# require 'bundler/setup'
 require 'sinatra/activerecord'
 require 'sinatra/activerecord/rake'
+require 'sinatra/assetpack'
 
 # require 'sinatra'
