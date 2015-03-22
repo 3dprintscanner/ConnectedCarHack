@@ -800,3 +800,590 @@ I, [2015-03-22T02:13:50.977617 #30443]  INFO -- : Saved
 I, [2015-03-22T02:13:50.983441 #30443]  INFO -- : Saved 
 I, [2015-03-22T02:13:50.986820 #30443]  INFO -- : Saved 
 I, [2015-03-22T02:13:51.000183 #30443]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.847832 #4008]  INFO -- : #<StringIO:0x0000000203eec0>
+I, [2015-03-22T08:16:28.868902 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.873174 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.876777 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.882218 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.885786 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.889005 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.892652 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.898098 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.902286 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.905325 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.908232 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.910729 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.913471 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.916042 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.918230 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.921855 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.924847 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.929051 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.934988 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.938690 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.942203 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.946055 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.949510 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.952762 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.956230 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.961988 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.967423 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.971273 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.974239 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.977523 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.981746 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.985235 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.988895 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.992904 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:28.998471 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:29.003178 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:16:29.007157 #4008]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.741277 #4056]  INFO -- : #<StringIO:0x00000001fd3d00>
+I, [2015-03-22T08:18:25.758147 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.762083 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.767124 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.771320 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.774892 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.777831 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.782627 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.787810 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.791019 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.794091 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.797332 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.800200 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.802629 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.805180 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.807926 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.810159 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.813407 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.817072 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.822322 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.826045 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.829787 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.833299 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.836525 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.839996 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.842496 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.845896 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.850310 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.854525 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.857876 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.860536 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.864894 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.868820 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.871763 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.874474 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.878002 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.882556 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:18:25.886982 #4056]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.267410 #4132]  INFO -- : #<StringIO:0x00000001f1c5d8>
+I, [2015-03-22T08:20:47.285181 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.288984 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.293853 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.298086 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.301753 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.305256 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.309943 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.315003 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.318731 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.322438 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.326036 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.329676 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.333663 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.338220 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.342029 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.347170 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.352769 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.357048 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.360601 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.364312 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.368281 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.371529 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.375787 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.380090 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.382577 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.385476 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.388431 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.392432 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.396125 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.398789 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.401401 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.405225 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.408795 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.412886 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.416364 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.419452 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:20:47.422273 #4132]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.243752 #4210]  INFO -- : #<StringIO:0x00000001d43248>
+I, [2015-03-22T08:27:54.261550 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.266018 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.271865 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.276737 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.285188 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.291233 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.299455 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.307582 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.316334 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.322460 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.328249 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.333128 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.337119 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.340877 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.345367 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.349805 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.354820 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.358753 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.362172 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.365294 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.368835 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.372976 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.379203 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.382620 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.387175 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.391468 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.394468 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.397538 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.400873 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.404615 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.407979 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.413115 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.417750 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.421039 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.424521 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.427541 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:27:54.430197 #4210]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.926567 #4220]  INFO -- : #<StringIO:0x00000001d038a0>
+I, [2015-03-22T08:28:29.945343 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.950733 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.956192 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.960894 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.965643 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.971019 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.975747 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.979054 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.982773 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.986265 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.989879 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.993465 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:29.996956 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.000850 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.005079 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.009649 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.013487 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.017345 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.020492 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.023442 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.025960 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.029062 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.034104 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.038863 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.045900 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.049214 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.053332 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.057557 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.062368 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.066424 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.071166 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.077545 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.081848 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.085900 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.090208 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.094631 #4220]  INFO -- : Saved 
+I, [2015-03-22T08:28:30.099303 #4220]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.354947 #5348]  INFO -- : #<StringIO:0x0000000251c348>
+I, [2015-03-22T09:14:35.373693 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.380279 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.385415 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.389650 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.393585 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.398609 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.403162 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.407304 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.410832 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.414523 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.418643 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.426112 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.433522 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.437973 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.442785 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.448157 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.453389 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.457906 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.463935 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.468702 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.473645 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.477680 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.481706 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.485731 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.490199 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.495782 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.500137 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.504531 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.509427 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.515208 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.519126 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.522646 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.527569 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.531330 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.534639 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.537676 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:14:35.540796 #5348]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.641800 #5626]  INFO -- : #<StringIO:0x000000028b5018>
+I, [2015-03-22T09:35:14.660068 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.665449 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.670444 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.674629 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.678644 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.687499 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.691718 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.694607 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.697955 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.701192 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.705235 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.710635 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.716634 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.721675 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.725884 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.729895 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.734923 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.742388 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.747475 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.752728 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.757981 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.761850 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.766641 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.771579 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.777619 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.783051 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.786605 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.789998 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.793000 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.796783 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.801178 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.804784 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.808361 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.811469 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.814508 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.818651 #5626]  INFO -- : Saved 
+I, [2015-03-22T09:35:14.821303 #5626]  INFO -- : Saved 
+I, [2015-03-22T10:45:21.159907 #6111]  INFO -- : #<StringIO:0x00000000d98ac8>
+I, [2015-03-22T10:48:12.814035 #6145]  INFO -- : 
+I, [2015-03-22T11:05:33.744328 #6430]  INFO -- : Request Body is: 
+I, [2015-03-22T11:05:33.744450 #6430]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:08:28.218604 #6518]  INFO -- : Request Body is: 
+I, [2015-03-22T11:09:07.984700 #6525]  INFO -- : Request Body is: 
+I, [2015-03-22T11:09:18.994490 #6530]  INFO -- : Request Body is: 
+I, [2015-03-22T11:10:07.168964 #6544]  INFO -- : Request Body is: 
+I, [2015-03-22T11:10:07.169067 #6544]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:10:07.169102 #6544]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:10:54.809277 #6570]  INFO -- : Request Body is: 
+I, [2015-03-22T11:10:54.809433 #6570]  INFO -- : Payload is:[]
+I, [2015-03-22T11:10:54.809487 #6570]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:10:54.809526 #6570]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:13:15.293381 #6587]  INFO -- : Request Body is: 
+I, [2015-03-22T11:13:15.293542 #6587]  INFO -- : Payload is:[]
+I, [2015-03-22T11:13:15.293607 #6587]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:13:15.293654 #6587]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:14:40.947574 #6598]  INFO -- : Request Body is: 
+I, [2015-03-22T11:14:40.947728 #6598]  INFO -- : Payload is:[]
+I, [2015-03-22T11:14:40.947778 #6598]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:14:40.947821 #6598]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:14:43.032812 #6602]  INFO -- : Request Body is: 
+I, [2015-03-22T11:14:43.033044 #6602]  INFO -- : Payload is:[]
+I, [2015-03-22T11:14:43.033137 #6602]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:14:43.033167 #6602]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:17:25.399558 #6652]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0 psi", "time"=>"2015-03-22 11:17:21"}
+I, [2015-03-22T11:17:25.399668 #6652]  INFO -- : Request Body is: 
+I, [2015-03-22T11:17:25.399743 #6652]  INFO -- : Payload is:[]
+I, [2015-03-22T11:17:25.399770 #6652]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:17:25.399787 #6652]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:20:14.472080 #6679]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0 psi", "time"=>"2015-03-22 11:20:11"}
+I, [2015-03-22T11:20:14.472173 #6679]  INFO -- : Request Body is: 
+I, [2015-03-22T11:20:14.472247 #6679]  INFO -- : Payload is:[]
+I, [2015-03-22T11:20:14.472290 #6679]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:20:14.472315 #6679]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:21:50.165651 #6698]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:21:46"}
+I, [2015-03-22T11:21:50.165859 #6698]  INFO -- : Request Body is: 
+I, [2015-03-22T11:21:50.165992 #6698]  INFO -- : Payload is:[]
+I, [2015-03-22T11:21:50.166031 #6698]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:21:50.166051 #6698]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:08.871717 #6703]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:22:06"}
+I, [2015-03-22T11:22:08.871811 #6703]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:08.871886 #6703]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:08.871912 #6703]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:08.871930 #6703]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:11.166072 #6707]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47,7", "time"=>"2015-03-22 11:22:09"}
+I, [2015-03-22T11:22:11.166175 #6707]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:11.166254 #6707]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:11.166298 #6707]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:11.166343 #6707]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:12.455718 #6712]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"46,7", "time"=>"2015-03-22 11:22:11"}
+I, [2015-03-22T11:22:12.455806 #6712]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:12.455880 #6712]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:12.455928 #6712]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:12.455979 #6712]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:13.646853 #6717]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"40,2", "time"=>"2015-03-22 11:22:12"}
+I, [2015-03-22T11:22:13.647461 #6717]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:13.647604 #6717]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:13.647692 #6717]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:13.647717 #6717]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:14.770577 #6721]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"44,8", "time"=>"2015-03-22 11:22:13"}
+I, [2015-03-22T11:22:14.770705 #6721]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:14.770794 #6721]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:14.770840 #6721]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:14.770865 #6721]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:15.963475 #6725]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"44,4", "time"=>"2015-03-22 11:22:14"}
+I, [2015-03-22T11:22:15.963630 #6725]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:15.963751 #6725]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:15.963830 #6725]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:15.963885 #6725]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:17.162513 #6729]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39,8", "time"=>"2015-03-22 11:22:16"}
+I, [2015-03-22T11:22:17.162645 #6729]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:17.162733 #6729]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:17.162778 #6729]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:17.162819 #6729]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:18.447397 #6743]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"36", "time"=>"2015-03-22 11:22:17"}
+I, [2015-03-22T11:22:18.447605 #6743]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:18.447737 #6743]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:18.447789 #6743]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:18.447830 #6743]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:23.451751 #6753]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0,1", "time"=>"2015-03-22 11:22:22"}
+I, [2015-03-22T11:22:23.451842 #6753]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:23.451930 #6753]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:23.451971 #6753]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:23.452008 #6753]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:22:30.129032 #6760]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"45,1", "time"=>"2015-03-22 11:22:28"}
+I, [2015-03-22T11:22:30.129138 #6760]  INFO -- : Request Body is: 
+I, [2015-03-22T11:22:30.129230 #6760]  INFO -- : Payload is:[]
+I, [2015-03-22T11:22:30.129274 #6760]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:22:30.129302 #6760]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:31.247601 #6825]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:25:27"}
+I, [2015-03-22T11:25:31.247683 #6825]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:31.247772 #6825]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:31.247800 #6825]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:31.247817 #6825]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:33.206229 #6829]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:25:31"}
+I, [2015-03-22T11:25:33.206331 #6829]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:33.206409 #6829]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:33.206436 #6829]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:33.206472 #6829]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:36.114476 #6835]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"12.6", "time"=>"2015-03-22 11:25:35"}
+I, [2015-03-22T11:25:36.114623 #6835]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:36.114711 #6835]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:36.114754 #6835]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:36.114793 #6835]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:37.326418 #6839]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"33.8", "time"=>"2015-03-22 11:25:36"}
+I, [2015-03-22T11:25:37.326537 #6839]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:37.326628 #6839]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:37.326680 #6839]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:37.326722 #6839]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:38.990222 #6844]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"44.3", "time"=>"2015-03-22 11:25:37"}
+I, [2015-03-22T11:25:38.990329 #6844]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:38.990407 #6844]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:38.990434 #6844]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:38.990450 #6844]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:41.082262 #6851]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"48.5", "time"=>"2015-03-22 11:25:40"}
+I, [2015-03-22T11:25:41.082358 #6851]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:41.082432 #6851]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:41.082457 #6851]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:41.082475 #6851]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:43.117772 #6855]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47.9", "time"=>"2015-03-22 11:25:41"}
+I, [2015-03-22T11:25:43.117866 #6855]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:43.117994 #6855]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:43.118039 #6855]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:43.118064 #6855]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:25:45.747318 #6859]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47.9", "time"=>"2015-03-22 11:25:44"}
+I, [2015-03-22T11:25:45.747412 #6859]  INFO -- : Request Body is: 
+I, [2015-03-22T11:25:45.747485 #6859]  INFO -- : Payload is:[]
+I, [2015-03-22T11:25:45.747528 #6859]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:25:45.747568 #6859]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:27:35.614316 #6903]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"35", "time"=>"2015-03-22 11:27:32"}
+I, [2015-03-22T11:27:35.614424 #6903]  INFO -- : Request Body is: 
+I, [2015-03-22T11:27:35.614500 #6903]  INFO -- : Payload is:[]
+I, [2015-03-22T11:27:35.614562 #6903]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:27:35.614625 #6903]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:27:37.163105 #6907]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"44.8", "time"=>"2015-03-22 11:27:35"}
+I, [2015-03-22T11:27:37.163246 #6907]  INFO -- : Request Body is: 
+I, [2015-03-22T11:27:37.163324 #6907]  INFO -- : Payload is:[]
+I, [2015-03-22T11:27:37.163375 #6907]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:27:37.163401 #6907]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:27:38.352680 #6911]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.6", "time"=>"2015-03-22 11:27:37"}
+I, [2015-03-22T11:27:38.352787 #6911]  INFO -- : Request Body is: 
+I, [2015-03-22T11:27:38.356056 #6911]  INFO -- : Payload is:[]
+I, [2015-03-22T11:27:38.356144 #6911]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:27:38.356200 #6911]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:27:39.441546 #6915]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.2", "time"=>"2015-03-22 11:27:38"}
+I, [2015-03-22T11:27:39.441705 #6915]  INFO -- : Request Body is: 
+I, [2015-03-22T11:27:39.441813 #6915]  INFO -- : Payload is:[]
+I, [2015-03-22T11:27:39.441867 #6915]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:27:39.441909 #6915]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:27:41.144931 #6920]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"17.2", "time"=>"2015-03-22 11:27:40"}
+I, [2015-03-22T11:27:41.145073 #6920]  INFO -- : Request Body is: 
+I, [2015-03-22T11:27:41.145175 #6920]  INFO -- : Payload is:[]
+I, [2015-03-22T11:27:41.145237 #6920]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:27:41.145293 #6920]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:11.634641 #6936]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:29:08"}
+I, [2015-03-22T11:29:11.634750 #6936]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:11.634828 #6936]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:11.634873 #6936]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:11.634913 #6936]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:14.792898 #6940]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"30", "time"=>"2015-03-22 11:29:13"}
+I, [2015-03-22T11:29:14.793049 #6940]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:14.793151 #6940]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:14.793187 #6940]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:14.793206 #6940]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:16.772810 #6944]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"38.9", "time"=>"2015-03-22 11:29:15"}
+I, [2015-03-22T11:29:16.773049 #6944]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:16.773160 #6944]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:16.773230 #6944]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:16.773273 #6944]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:18.720053 #6948]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"44.9", "time"=>"2015-03-22 11:29:17"}
+I, [2015-03-22T11:29:18.720234 #6948]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:18.720423 #6948]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:18.720528 #6948]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:18.720579 #6948]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:21.093588 #6952]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"45.9", "time"=>"2015-03-22 11:29:19"}
+I, [2015-03-22T11:29:21.093734 #6952]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:21.093824 #6952]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:21.093872 #6952]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:21.093912 #6952]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:23.290587 #6956]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.1", "time"=>"2015-03-22 11:29:21"}
+I, [2015-03-22T11:29:23.290732 #6956]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:23.290825 #6956]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:23.290876 #6956]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:23.290917 #6956]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:24.493559 #6960]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"34.8", "time"=>"2015-03-22 11:29:23"}
+I, [2015-03-22T11:29:24.493728 #6960]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:24.493840 #6960]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:24.493914 #6960]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:24.493959 #6960]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:27.009227 #6965]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"28.8", "time"=>"2015-03-22 11:29:25"}
+I, [2015-03-22T11:29:27.009449 #6965]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:27.009564 #6965]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:27.009624 #6965]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:27.009686 #6965]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:29.818566 #6969]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"41.2", "time"=>"2015-03-22 11:29:28"}
+I, [2015-03-22T11:29:29.818688 #6969]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:29.818771 #6969]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:29.818817 #6969]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:29.818859 #6969]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:31.423841 #6982]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47.9", "time"=>"2015-03-22 11:29:30"}
+I, [2015-03-22T11:29:31.423949 #6982]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:31.424033 #6982]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:31.424081 #6982]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:31.424122 #6982]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:32.772684 #6986]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:29:31"}
+I, [2015-03-22T11:29:32.772802 #6986]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:32.772899 #6986]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:32.772953 #6986]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:32.772997 #6986]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:53.625754 #6994]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"32.7", "time"=>"2015-03-22 11:29:52"}
+I, [2015-03-22T11:29:53.625852 #6994]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:53.625931 #6994]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:53.625978 #6994]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:53.626018 #6994]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:55.527314 #6998]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"35.3", "time"=>"2015-03-22 11:29:54"}
+I, [2015-03-22T11:29:55.527474 #6998]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:55.527573 #6998]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:55.527637 #6998]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:55.527681 #6998]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:57.227961 #7003]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47.6", "time"=>"2015-03-22 11:29:56"}
+I, [2015-03-22T11:29:57.228076 #7003]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:57.228182 #7003]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:57.228239 #7003]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:57.228265 #7003]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:29:58.607854 #7007]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47.9", "time"=>"2015-03-22 11:29:57"}
+I, [2015-03-22T11:29:58.607951 #7007]  INFO -- : Request Body is: 
+I, [2015-03-22T11:29:58.608030 #7007]  INFO -- : Payload is:[]
+I, [2015-03-22T11:29:58.608075 #7007]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:29:58.608116 #7007]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:00.071527 #7011]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"32.4", "time"=>"2015-03-22 11:29:58"}
+I, [2015-03-22T11:30:00.071617 #7011]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:00.071689 #7011]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:00.071730 #7011]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:00.071767 #7011]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:01.508251 #7019]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"41.2", "time"=>"2015-03-22 11:30:00"}
+I, [2015-03-22T11:30:01.508629 #7019]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:01.508798 #7019]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:01.508864 #7019]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:01.508915 #7019]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:02.786554 #7023]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.1", "time"=>"2015-03-22 11:30:01"}
+I, [2015-03-22T11:30:02.786706 #7023]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:02.786801 #7023]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:02.786852 #7023]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:02.786916 #7023]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:04.437402 #7027]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.2", "time"=>"2015-03-22 11:30:03"}
+I, [2015-03-22T11:30:04.437552 #7027]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:04.437659 #7027]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:04.437713 #7027]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:04.437756 #7027]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:05.707507 #7031]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.9", "time"=>"2015-03-22 11:30:04"}
+I, [2015-03-22T11:30:05.707604 #7031]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:05.707710 #7031]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:05.707756 #7031]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:05.707781 #7031]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:07.066870 #7035]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"39.1", "time"=>"2015-03-22 11:30:05"}
+I, [2015-03-22T11:30:07.066965 #7035]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:07.067041 #7035]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:07.067087 #7035]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:07.067127 #7035]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:08.234102 #7039]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"42.1", "time"=>"2015-03-22 11:30:07"}
+I, [2015-03-22T11:30:08.234211 #7039]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:08.234297 #7039]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:08.234345 #7039]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:08.234404 #7039]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:10.673037 #7043]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"40.7", "time"=>"2015-03-22 11:30:09"}
+I, [2015-03-22T11:30:10.673136 #7043]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:10.673207 #7043]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:10.673253 #7043]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:10.673305 #7043]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:12.886248 #7048]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"45.8", "time"=>"2015-03-22 11:30:11"}
+I, [2015-03-22T11:30:12.886345 #7048]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:12.886429 #7048]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:12.886473 #7048]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:12.886513 #7048]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:30:14.701277 #7052]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"45", "time"=>"2015-03-22 11:30:13"}
+I, [2015-03-22T11:30:14.701471 #7052]  INFO -- : Request Body is: 
+I, [2015-03-22T11:30:14.701578 #7052]  INFO -- : Payload is:[]
+I, [2015-03-22T11:30:14.701634 #7052]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:30:14.701677 #7052]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:32.730694 #7125]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:38:29"}
+I, [2015-03-22T11:38:32.730833 #7125]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:32.730929 #7125]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:32.730960 #7125]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:32.730998 #7125]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:35.879004 #7130]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"47.6", "time"=>"2015-03-22 11:38:32"}
+I, [2015-03-22T11:38:35.879278 #7130]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:35.879393 #7130]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:35.879443 #7130]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:35.879484 #7130]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:37.362849 #7134]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"8.5", "time"=>"2015-03-22 11:38:36"}
+I, [2015-03-22T11:38:37.362972 #7134]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:37.363062 #7134]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:37.363103 #7134]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:37.363141 #7134]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:38.662071 #7141]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"29.3", "time"=>"2015-03-22 11:38:37"}
+I, [2015-03-22T11:38:38.662161 #7141]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:38.662267 #7141]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:38.662312 #7141]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:38.662348 #7141]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:39.914792 #7145]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"41.3", "time"=>"2015-03-22 11:38:38"}
+I, [2015-03-22T11:38:39.914915 #7145]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:39.915005 #7145]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:39.915071 #7145]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:39.915112 #7145]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:41.080477 #7149]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:38:40"}
+I, [2015-03-22T11:38:41.080570 #7149]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:41.080650 #7149]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:41.080693 #7149]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:41.080732 #7149]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:42.525027 #7153]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:38:41"}
+I, [2015-03-22T11:38:42.525177 #7153]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:42.525284 #7153]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:42.525341 #7153]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:42.525386 #7153]  INFO -- : Request Method is:POST
+I, [2015-03-22T11:38:43.695215 #7157]  INFO -- : Payload type:{"user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0", "time"=>"2015-03-22 11:38:42"}
+I, [2015-03-22T11:38:43.695366 #7157]  INFO -- : Request Body is: 
+I, [2015-03-22T11:38:43.695458 #7157]  INFO -- : Payload is:[]
+I, [2015-03-22T11:38:43.695560 #7157]  INFO -- : Request Type is:application/json
+I, [2015-03-22T11:38:43.695604 #7157]  INFO -- : Request Method is:POST

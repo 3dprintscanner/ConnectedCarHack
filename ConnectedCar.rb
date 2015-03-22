@@ -7,106 +7,127 @@ require 'logger'
 require 'json'
 # require 'bundler/setup'
 
+
+
 class App < Sinatra::Base
-  register Sinatra::AssetPack
   set :root, File.dirname(__FILE__)
+  register Sinatra::AssetPack
+  
 
+  	
     # read on
-    assets do
-      # serve '/js', from: 'js'
-      # serve '/js', from: 'bower_components'
+    assets {
+      serve '/js', from: 'js'
 
-      js :chart, [
-        'js/*.js'
+      js :head, [
+      	'/js/Chart.js'
       ]
-    end
 
-  end
+       serve '/js', :from => 'bower_components'
+    js :application, [
+      '/js/jquery.js',
+      '/js/app.js'
+      # You can also do this: 'js/*.js'
+    ]
+    }
 
-module Rack
-  class Lint
-    def call(env = nil)
-      @app.call(env)
-    end
-  end
 end
-
-set :database, {adapter: "sqlite3", database: "connectedcar.sqlite3"}
-
-get '/' do
-	'Hello World'
-end	
-
-post '/apisubmit' do
-	
-	logger = Logger.new('logfile.log')
-	logger.level = Logger::DEBUG
-	content_type :json
-	'Hello World'
-
-	request.body.rewind
-  	@request_payload = JSON.parse request.body.read
-	logger.info(request.body)
-	[200,{"Content-Type" => "text/plain"}, ["Hello World"]]
-	@request_payload.each  do |entry|
- 		newentry = Pressuredata.new({user_id: entry['user'], vehicle_id: entry ['vehicle_id'], tyre_pressure: entry['tyre_pressure'], time: entry['time']})
-		"This is an entry"
-		if newentry.save
-			puts "Added to database"
-			logger.info("Saved ")
-		else
-			puts "Not saved! #{newentry}"
-			logger.error("Not Saved ")
-		end
-		
+	module Rack
+	  class Lint
+	    def call(env = nil)
+	      @app.call(env)
+	    end
+	  end
 	end
-	"this is an after entry"
-	# request
-end
 
-get '/apisubmit' do
-	"Send your request in post format"
-end
+	set :database, {adapter: "sqlite3", database: "connectedcar.sqlite3"}
 
-get '/viewdata' do
-	@vehicle_data = Pressuredata.all
-	@create_datasets == true
-	#here can we return an array of objects of each vehicle_id????
-	erb :viewdata
-end
+	get '/' do
+		erb :viewdata
+	end	
 
-get '/viewdata/:vehicle_id' do
-	@vehicle_data = Pressuredata.where(vehicle_id: params[:vehicle_id])
-	erb :viewdata
-end
+	post '/apisubmit' do
+		
+		logger = Logger.new('logfile.log')
+		logger.level = Logger::DEBUG
+		content_type :json
+		request.body.rewind
+	  	@request_payload = JSON.parse request.body.read
+	  	logger.info("Payload type:"+ @request_payload.to_s)
+		logger.info("Request Body is: " + request.body.read)
+		logger.info("Payload is:" + request.body.to_json)
+		logger.info("Request Type is:"  + request.media_type)
+		logger.info("Request Method is:"  + request.request_method)
+		# @request_payload.each  do |entry|
+	 # 		newentry = Pressuredata.new({user_id: entry['user'], vehicle_id: entry ['vehicle_id'], tyre_pressure: entry['tyre_pressure'], time: entry['time']})
+		# 	"This is an entry"
+		# 	if newentry.save
+		# 		puts "Added to database"
+		# 		logger.info("Saved ")
+		# 	else
+		# 		puts "Not saved! #{newentry}"
+		# 		logger.error("Not Saved ")
+		# 	end
+			
+		# end
+		# "user_id"=>"300", "vehicle_id"=>"5", "tyre_pressure"=>"0,1", "time"=>"2015-03-22 11:22:22"
+		entry = @request_payload
+		newentry = Pressuredata.new({user_id: entry['user_id'], vehicle_id: entry ['vehicle_id'], tyre_pressure: entry['tyre_pressure'], time: entry['time']})
+			if newentry.save
+				[200,{"Content-Type" => "application/json"}, ["Success"]]
+			else
+				[300,{"Content-Type" => "application/json"}, ["Failure"]]
+			end
+	end
 
-get '/viewdata/:vehicle_id/:days' do
-	@vehicle_data = Pressuredata.where(vehicle_id: params[:vehicle_id]).where("time" == params[:days].to_i.days.ago)
-	erb :viewdata
-end
+	get '/apisubmit/:vehicle_id' do
+		"Send your request in post format"
+		@vehicle_data = Pressuredata.where(:vehicle_id => params[:vehicle_id]).to_json
+	end
 
-def get_different_vehicle_data
-	@different_vehicle_data = Pressuredata.group(:vehicle_id)
-end
+	get '/apisubmit' do
+		"Please specify vehicle id".to_json
+	end
 
-def build_chart_datasets(vehicle_id)
+	get '/viewdata' do
+		@vehicle_data = Pressuredata.all
+		@create_datasets == true
+		#here can we return an array of objects of each vehicle_id????
+		erb :viewdata
+	end
 
-	innergroup = Pressuredata.where(vehicle_id: vehicle_id).order(:time)
-	puts innergroup
-	pressurearray = innergroup.order(:time).map { |data| [data.tyre_pressure, data.time] }
+	get '/viewdata/:vehicle_id' do
+		@vehicle_data = Pressuredata.where(vehicle_id: params[:vehicle_id])
+		erb :viewdata
+	end
 
-	# dataset = %Q({fillColor : "rgba(220,3,5,0.5)", strokeColor : "rgba(220,220,220,0.8)", highlightFill: "rgba(220,220,220,0.75)", highlightStroke: "rgba(220,220,220,1)", data : #{pressurearray.map {|element| (element[0]).to_i}} },)
-	pressurearray.map {|element| (element[0]).to_i}
-	# return dataset
-end
+	get '/viewdata/:vehicle_id/:days' do
+		@vehicle_data = Pressuredata.where(vehicle_id: params[:vehicle_id]).where("time" == params[:days].to_i.days.ago)
+		erb :viewdata
+	end
 
-class Pressuredata < ActiveRecord::Base
 
-	validates_presence_of :user_id
-	validates_presence_of :vehicle_id
-	validates_presence_of :tyre_pressure
+	def get_different_vehicle_data
+		@different_vehicle_data = Pressuredata.group(:vehicle_id)
+	end
 
-end
+	def build_chart_datasets(vehicle_id)
+
+		innergroup = Pressuredata.where(vehicle_id: vehicle_id).order(:time)
+		puts innergroup
+		pressurearray = innergroup.order(:time).map { |data| [data.tyre_pressure, data.time] }
+
+		# dataset = %Q({fillColor : "rgba(220,3,5,0.5)", strokeColor : "rgba(220,220,220,0.8)", highlightFill: "rgba(220,220,220,0.75)", highlightStroke: "rgba(220,220,220,1)", data : #{pressurearray.map {|element| (element[0]).to_i}} },)
+		pressurearray.map {|element| (element[0]).to_i}
+		# return dataset
+	end
+	class Pressuredata < ActiveRecord::Base
+
+		validates_presence_of :user_id
+		validates_presence_of :vehicle_id
+		validates_presence_of :tyre_pressure
+
+	end
 
 __END__
 
@@ -118,9 +139,9 @@ __END__
 <title>Super Simple Chat with Sinatra</title>
 <meta charset="utf-8" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.js"></script>
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 </head>
 <nav class="navbar navbar-default" role="navigation">
 	<!-- Brand and toggle get grouped for better mobile display -->
@@ -164,12 +185,12 @@ __END__
 </html>
 
 @@ viewdata
+<%= js :application %>
 <% if @vehicle_data %>
 		<% pressurearray = @vehicle_data.order(:time).all.to_a.map { |data| [data.tyre_pressure, data.time] } %>
 	<% else %>	
 		<% pressurearray = Pressuredata.order(:time).all.to_a.map { |data| [data.tyre_pressure, data.time] } %>
 	<% end %>
-<%= build_chart_datasets(5) %>
 <div class="container">
 	<canvas id="myChart" max-width="1000" max-height="900"></canvas>	
 </div>
@@ -217,8 +238,9 @@ __END__
 			responsive : true,
 			showScale : true
 		});
-		window.myBar.addData(<%= build_chart_datasets(5) %>, "5");
 	}
 
 	
 </script>
+
+
